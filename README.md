@@ -1,6 +1,6 @@
 # sahil--demo
 This is my first Git Repository.
 <br>
-author - sahil
+Author - Sahil
 
 
